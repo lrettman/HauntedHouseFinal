@@ -1,0 +1,2 @@
+Final/Library/PackageCache/com.unity.burst@1df634d836b8/.Runtime/libburst-llvm-19.dylib filter=lfs diff=lfs merge=lfs -text
+Final/PlayerDataCache/Win642/Data/sharedassets1.assets.resS filter=lfs diff=lfs merge=lfs -text
